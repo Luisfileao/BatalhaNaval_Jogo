@@ -1,0 +1,1 @@
+Este é um projeto desenvolvido por mim e minha equipe do IFMG-Ouro Branco de um famoso jogo chamado Batalha Naval, programado em java. Sua interface moderna permite jogar contra uma IA e ver quem ganha.
